@@ -1,4 +1,5 @@
 // String method: Phương thức xử lý dữ liệu String trong JavaScript
+// toLowerCase(), toUpperCase(), trim(), replace(), match(), search(), startsWith, endsWith()
 
 // toLowerCase() - chuyển đổi tất cả các ký tự trong chuỗi sang ký tự thường
 // Không làm thay đổi chuỗi ban đầu
